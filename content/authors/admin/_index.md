@@ -35,8 +35,13 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/LilNasTyan
-
-
+  - url: https://www.elibrary.ru/defaultx.asp
+  - url: https://scholar.google.com/citations?hl=ru&user=lo16xjAAAAAJ&scilu=&scisig=AIIUsnMAAAAAZnWr3O9x-UeHhvs-Hj0PwHC98Lk&gmla=AOAOcb0-pkTgEfWjLW1qS7wkzx963DliI0yXa_3TpMs8eVyv2CfYpD_NdJxv_MMOxdHZUPJLgUUl8SngFcPZF0r2tf9pR9Fi0BK7ddhAySnzTGmZMxD9P6cSNQiAUk-k_s4LEMeD-by3NQ&sciund=2788414796530509394
+  - url: https://www.mendeley.com/search/
+  - url: https://www.researchgate.net/profile/Anastasia-Ignatova-4
+  - url: https://arxiv.org/user/
+  - url: https://rudn.academia.edu/%D0%90%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D0%BE%D0%B2%D0%B0
+  
 interests:
   - Программирование
   - Бизнес-аналитика
