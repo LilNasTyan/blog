@@ -1,0 +1,39 @@
+/* Определяем градиентный фон */
+body {
+    background: linear-gradient(to right, #004d00, #006600); /* Настройте цвета по необходимости */
+    color: white; /* Убедитесь, что текст читаем на темном фоне */
+    font-family: Arial, sans-serif; /* Пример шрифта */
+}
+
+/* Дополнительные стили для других элементов */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8); /* Дополнительно: полупрозрачный фон для контента */
+    border-radius: 10px; /* Дополнительно: скругленные углы */
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.profile-header img {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.profile-header h1, .profile-header h2 {
+    margin: 0;
+}
+
+.skills, .languages {
+    padding: 20px;
+}
+
+.skills h3, .languages h3 {
+    margin-top: 0;
+}
