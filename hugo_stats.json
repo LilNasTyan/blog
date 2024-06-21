@@ -441,6 +441,7 @@
       "rtl:-ml-4",
       "rtl:-rotate-180",
       "rtl:hidden",
+      "rtl:pr-4",
       "rtl:text-left",
       "scale-95",
       "scroll-my-6",
@@ -563,7 +564,9 @@
       "teaching",
       "test-students",
       "top",
-      "video"
+      "video",
+      "выбор-языка-для-научного-программирования",
+      "языки-научного-программирования-обзор-и-применение"
     ]
   }
 }
