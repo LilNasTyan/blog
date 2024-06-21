@@ -53,23 +53,6 @@ education:
       GPA: 3.8/4.0
 ---
 
-# Skills
-  - Technical Skills
-  
-      - Python/C++/C
-      20%
-
-  - Hobbies
-  
-      - Вязание
-      100%
-       
-      - Шитьё
-      70% 
-       
-      - Танцы 
-      60%
-
 # Languages:
   - Russian
     100%
@@ -83,5 +66,5 @@ education:
 
 ## About Me
 
-Игнатова Анастасия Александровна - студент РУДН, обучаюсь на направлении Бизнес-информатика. Изучаю английский и испанский. Родилась и проживаю на данный момент в России. Люблю танцевать, вязать, шить и анализировать.
+Ignatova Anastasia Alexandrovna is a student of RUDN, studying in the field of Business Informatics. I study English and Spanish. I was born and currently live in Russia. I love dancing, knitting, sewing and analyzing.
 ---
