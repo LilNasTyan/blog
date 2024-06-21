@@ -42,14 +42,14 @@ profiles:
   - url: https://arxiv.org/user/
   - url: https://rudn.academia.edu/%D0%90%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D0%BE%D0%B2%D0%B0
   
-interests:
+Интересы:
   - Программирование
   - Бизнес-аналитика
   - Танцы
   - Вязание/Шитьё
   - Изучение иностранных языков
 
-education:
+Образование:
   - area: Бизнес-информатика
     institution: Российский университет дружбы народов (РУДН)
     date_start: 2023-09-01
@@ -58,18 +58,18 @@ education:
       GPA: 3.8/4.0
 ---
 
-# Languages:
-  - Russian
+## Языки:
+  - Русский
     100%
     
-  - English
-    80%
+  - Английский
+    85%
     
-  - Spanish
+  - Испанский
     10%
 
 
-## About Me
+### Обо мне
 
-Ignatova Anastasia Alexandrovna is a student of RUDN, studying in the field of Business Informatics. I study English and Spanish. I was born and currently live in Russia. I love dancing, knitting, sewing and analyzing.
+Игнатова Анастасия Александровна – студентка РУДН, обучается по направлению «Бизнес-информатика». Я изучаю английский и испанский языки. Я родился и сейчас живу в России. Я люблю танцевать, вязать, шить и анализировать.
 ---
